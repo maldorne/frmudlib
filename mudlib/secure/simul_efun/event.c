@@ -5,7 +5,7 @@
  * And Baldrick didn't even ask Sibbis, guess that makes us closer to even.
  */
 
-void event( mixed obs, string event_name, mixed *arg... )
+void event( mixed obs, string event_name, mixed arg... )
 {
    object who ;
    object *event_obs ;

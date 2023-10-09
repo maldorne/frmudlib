@@ -65,7 +65,7 @@ void load_object() {
     done = 1;
     seteuid(ROOT);
     restore_object("/secure/master",1);
-    create2();
+    // create2();
   }
 } /* load_object() */
 

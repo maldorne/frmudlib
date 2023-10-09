@@ -71,7 +71,7 @@ varargs string fix_string(string ret, int margin)
   ret += "%^RESET%^";
   if(margin) return terminal_colour(ret, colour_map, cols, margin);
   return terminal_colour(ret, colour_map, cols);
-} /* fix_string() */
+} */ /* fix_string() */
 
 // here it goes.. the fix_string from Aurora, slighly
 // modified for this lib; in the future you can use it
@@ -87,7 +87,7 @@ varargs string fix_string(string ret, int indent, int colz, int noreset)
   if(!noreset) ret+="%^RESET%^";                                          
 
 // you might want to have if(!colz) colz=cols; later
-  return terminal_colour(ret, colour_map, colz, indent);                  
+  return terminal_colour(ret, colour_map);                  
 } /* fix_string() */                                                    
 
 int set_term_type(string str) 
