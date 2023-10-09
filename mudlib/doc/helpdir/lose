@@ -1,8 +1,0 @@
-
-Usage:  lose <player/monster>
-
-Causes a player/monster that is following you using the 'follow' command
-or similar means to stop following you.
-
-See also:
-follow

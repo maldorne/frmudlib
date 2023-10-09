@@ -1,1 +1,0 @@
-inherit "/obj/misc/torch";

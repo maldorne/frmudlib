@@ -1,1 +1,0 @@
-#define TRAP "/baseobs/traps/"

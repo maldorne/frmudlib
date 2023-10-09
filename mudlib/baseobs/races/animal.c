@@ -1,1 +1,0 @@
-inherit "/std/races/unknown";
