@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="400" alt="Final Realms logo" src="/logo.gif">
+  <img width="150px" alt="Final Realms logo" src="/logo.gif">
 </p>
 
 # `frmudlib` MUD library
 
-This was the old mudlib from the game **Final Realms** during the nineties. It includes only the mudlib without the game content (the _domains_).
+This was the old mudlib from the game **Final Realms** during the nineties. It includes only the **mudlib** without the game content (the _domains_).
 
 This was the license:
 
@@ -24,6 +24,14 @@ For the FR-MUD development team.
   Baldrick, God.
 Baldrick@fr.imaginary.com
 ```
+
+## Current game
+
+This repository have no relation with the current game, is just a backup of old versions of the software. The current game can be reached at:
+
+- `telnet fr.hyssing.net 4001`
+
+There is an extensive wiki about the game in [https://wiki.solbu.org/display/MUD](https://wiki.solbu.org/display/MUD).
 
 ## Branches
 
