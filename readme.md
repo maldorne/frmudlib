@@ -27,7 +27,7 @@ Baldrick@fr.imaginary.com
 
 ## Current game
 
-This repository have no relation with the current game, is just a backup of old versions of the software. The current game can be reached at:
+This repository have no relationship with the current game, is just a backup of old versions of the software. The current game can be reached at:
 
 - `telnet fr.hyssing.net 4001`
 
