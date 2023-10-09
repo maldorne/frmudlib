@@ -33,6 +33,11 @@ This repository have no relationship with the current game, is just a backup of 
 
 There is an extensive wiki about the game in [https://wiki.solbu.org/display/MUD](https://wiki.solbu.org/display/MUD).
 
+You can find other repositories and backups in:
+
+- https://github.com/silbago/Final-Realms
+- https://github.com/quixadhal/fr
+
 ## Branches
 
 On this repository, you could find different branches for the following versions of `frmudlib` (from newer to older):
