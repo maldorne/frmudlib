@@ -14,7 +14,7 @@ name : FR-release
 #
 # This will be the port number that your users will connect to
 #
-port number : 4001
+port number : 5000
 
 #
 # [ optional ]
