@@ -7,7 +7,7 @@
 
 # `frmudlib` MUD library
 
-This was the old mudlib from the game **Final Realms** during the nineties. It includes only the **mudlib** without the game content (the _domains_).
+This was the old mudlib from the game **Final Realms** during the nineties. It includes only the **mudlib** without the game content (the _domains_). It runs under a [MudOS MUD driver](https://github.com/maldorne/mudos).
 
 This was the license:
 
@@ -45,19 +45,19 @@ You can find other repositories and backups in:
 
 On this repository, you could find different branches for the following versions of `frmudlib` (from newer to older):
 
-- `v4.0b`
+- ~`v4.0b`~
 - `v3.5b`
-- `v3.4`
-- `v3.2b3`
+- ~`v3.4`~
+- ~`v3.2b3`~
 
-The `master` branch is empty, try any other branch to see different versions.
+The `master` branch is empty, try any other branch to see different versions. *Striketrough versions are not yet uploaded, we are working on it*.
 
 ## Current status of each branch
 
 - `v4.0b`
   - _Not yet uploaded._
 - `v3.5b`
-  - Working with Docker.
+  - Working with Docker, using the **MudOS driver v21.7** image (available in [Docker Hub](https://hub.docker.com/repository/docker/neverbot/maldorne-mudos/general)).
 - `v3.4`
   - _Not yet uploaded._
 - `v3.2b3`
