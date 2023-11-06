@@ -2,6 +2,9 @@
   <img width="150px" alt="Final Realms logo" src="/logo.gif">
 </p>
 
+> [!IMPORTANT]  
+> The `master` branch is empty, the code for different versions is located in other branches.
+
 # `frmudlib` MUD library
 
 This was the old mudlib from the game **Final Realms** during the nineties. It includes only the **mudlib** without the game content (the _domains_).
