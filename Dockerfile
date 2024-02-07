@@ -1,5 +1,5 @@
 
-FROM neverbot/maldorne-mudos:v21.7 as base
+FROM ghcr.io/maldorne/mudos:v21.7 as base
 
 USER root
 
