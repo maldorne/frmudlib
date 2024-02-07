@@ -12,7 +12,7 @@ WORKDIR /opt/mud
 COPY --chown=mud:mud start.sh config.frmudlib frmudlib/
 COPY --chown=mud:mud mudlib frmudlib/mudlib/
 
-# reuse the same user created by the maldorne-mudos image
+# reuse the same user created by the mudos image
 USER mud
 
 # finishing touches
