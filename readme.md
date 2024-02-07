@@ -57,7 +57,7 @@ The `master` branch is empty, try any other branch to see different versions. *S
 - `v4.0b`
   - _Not yet uploaded._
 - `v3.5b`
-  - Working with Docker, using the **MudOS driver v21.7** image (available in [Docker Hub](https://hub.docker.com/repository/docker/neverbot/maldorne-mudos/general)).
+  - Working with Docker, using the **MudOS driver v21.7** image (available in the [Github Container Registry](https://github.com/maldorne/frmudlib/pkgs/container/frmudlib)).
 - `v3.4`
   - _Not yet uploaded._
 - `v3.2b3`
