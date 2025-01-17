@@ -6,15 +6,15 @@
 
 2. Run the container in background:
 
-   `docker run --rm -td -p 23:5000 ghcr.io/maldorne/frmudlib:v3.5b`
+   `docker run --rm -td -p 23:5000 --name frmudlib ghcr.io/maldorne/frmudlib:v3.5b`
 
 3. Or run the container in interactive mode:
 
-   `docker run --rm -ti -p 23:5000 ghcr.io/maldorne/frmudlib:v3.5b`
+   `docker run --rm -ti -p 23:5000 --name frmudlib ghcr.io/maldorne/frmudlib:v3.5b`
 
 4. Push the image after building it:
 
-   `docker push ghcr.io/maldorne/frmudlib:v3.5b`
+   ~`docker push ghcr.io/maldorne/frmudlib:v3.5b`~ (will be done by [the CI/CD pipelines](https://github.com/maldorne/frmudlib/blob/v3.5b/.github/workflows/publish-ghcr.yaml)).
 
 5. Pull the image from the repository:
 
